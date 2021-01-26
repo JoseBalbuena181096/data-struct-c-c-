@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tylor_serie1.dir/tylor_serie1.cpp.o  -o tylor_serie1 

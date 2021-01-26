@@ -1,0 +1,4 @@
+/home/jetbot/course_master_algorimh/arrays/CMakeFiles/rebuild_cache.dir
+/home/jetbot/course_master_algorimh/arrays/CMakeFiles/edit_cache.dir
+/home/jetbot/course_master_algorimh/arrays/CMakeFiles/Array.dir
+/home/jetbot/course_master_algorimh/arrays/CMakeFiles/ArrayC.dir

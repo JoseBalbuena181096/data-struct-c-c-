@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/static_recursion.dir/static_recursion.cpp.o  -o static_recursion 

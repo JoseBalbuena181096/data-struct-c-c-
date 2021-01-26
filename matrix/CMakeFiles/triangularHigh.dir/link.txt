@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/triangularHigh.dir/triangularHigh.cpp.o  -o triangularHigh 

@@ -1,0 +1,4 @@
+/home/jose/Desktop/course_master_algorimh/stack/matching/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/course_master_algorimh/stack/matching/CMakeFiles/match.dir
+/home/jose/Desktop/course_master_algorimh/stack/matching/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/stack/matching/CMakeFiles/InToPost.dir

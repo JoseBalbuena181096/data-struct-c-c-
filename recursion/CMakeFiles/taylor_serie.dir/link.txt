@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/taylor_serie.dir/taylor_serie.cpp.o  -o taylor_serie 

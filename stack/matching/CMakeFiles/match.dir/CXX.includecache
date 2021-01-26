@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Desktop/course_master_algorimh/stack/matching/Stack.cpp
+iostream
+-
+Stack.h
+/home/jose/Desktop/course_master_algorimh/stack/matching/Stack.h
+
+/home/jose/Desktop/course_master_algorimh/stack/matching/Stack.h
+Stack.cpp
+/home/jose/Desktop/course_master_algorimh/stack/matching/Stack.cpp
+
+/home/jose/Desktop/course_master_algorimh/stack/matching/match.cpp
+iostream
+-
+Stack.h
+/home/jose/Desktop/course_master_algorimh/stack/matching/Stack.h
+string.h
+-
+

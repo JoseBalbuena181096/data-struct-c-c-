@@ -1,0 +1,3 @@
+/home/jose/Desktop/course_master_algorimh/Tree/bts/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/Tree/bts/CMakeFiles/bts.dir
+/home/jose/Desktop/course_master_algorimh/Tree/bts/CMakeFiles/edit_cache.dir

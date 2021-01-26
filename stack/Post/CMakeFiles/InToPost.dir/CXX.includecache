@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Desktop/course_master_algorimh/stack/Post/InToPost.cpp
+iostream
+-
+string.h
+-
+Stack.cpp
+/home/jose/Desktop/course_master_algorimh/stack/Post/Stack.cpp
+
+/home/jose/Desktop/course_master_algorimh/stack/Post/Stack.cpp
+iostream
+-
+

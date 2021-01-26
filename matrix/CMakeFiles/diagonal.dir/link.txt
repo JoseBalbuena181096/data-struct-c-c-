@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/diagonal.dir/diagonal.cpp.o  -o diagonal 

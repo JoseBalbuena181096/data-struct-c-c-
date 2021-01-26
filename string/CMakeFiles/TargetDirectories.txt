@@ -1,0 +1,3 @@
+/home/jetbot/course_master_algorimh/string/CMakeFiles/rebuild_cache.dir
+/home/jetbot/course_master_algorimh/string/CMakeFiles/string.dir
+/home/jetbot/course_master_algorimh/string/CMakeFiles/edit_cache.dir

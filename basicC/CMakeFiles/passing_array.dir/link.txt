@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/passing_array.dir/passing_array.cpp.o  -o passing_array 

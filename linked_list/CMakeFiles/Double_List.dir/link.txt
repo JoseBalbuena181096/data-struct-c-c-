@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Double_List.dir/Double_List.cpp.o  -o Double_List 

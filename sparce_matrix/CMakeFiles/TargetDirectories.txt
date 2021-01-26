@@ -1,0 +1,5 @@
+/home/jetbot/course_master_algorimh/sparce_matrix/CMakeFiles/rebuild_cache.dir
+/home/jetbot/course_master_algorimh/sparce_matrix/CMakeFiles/edit_cache.dir
+/home/jetbot/course_master_algorimh/sparce_matrix/CMakeFiles/matrix.dir
+/home/jetbot/course_master_algorimh/sparce_matrix/CMakeFiles/poly.dir
+/home/jetbot/course_master_algorimh/sparce_matrix/CMakeFiles/matrix_class.dir

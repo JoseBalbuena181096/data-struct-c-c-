@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sum_natural.dir/sum_natural.cpp.o  -o sum_natural 

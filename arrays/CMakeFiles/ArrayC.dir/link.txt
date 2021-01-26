@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ArrayC.dir/ArrayC.cpp.o  -o ArrayC 

@@ -1,0 +1,3 @@
+/home/jose/Desktop/course_master_algorimh/Tree/Rank/Interview/arrays/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/Tree/Rank/Interview/arrays/CMakeFiles/two.dir
+/home/jose/Desktop/course_master_algorimh/Tree/Rank/Interview/arrays/CMakeFiles/edit_cache.dir

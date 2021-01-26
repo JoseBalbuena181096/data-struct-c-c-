@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.1)
+cmake_policy(SET CMP0012 NEW)
+PROJECT(projet)
+
+ADD_EXECUTABLE(diagonal diagonal.cpp)
+ADD_EXECUTABLE(triangularLow triangularLow.cpp)
+ADD_EXECUTABLE(triangularHigh triangularHigh.cpp)
+ADD_EXECUTABLE(Symmetric Symmetric.cpp)
+ADD_EXECUTABLE(tridiagonal tridiagonal.cpp)
+ADD_EXECUTABLE(toeplitz toeplitz.cpp)

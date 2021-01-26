@@ -1,0 +1,3 @@
+/home/jose/Desktop/course_master_algorimh/Tree/Rank/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/Tree/Rank/CMakeFiles/Day1.dir
+/home/jose/Desktop/course_master_algorimh/Tree/Rank/CMakeFiles/edit_cache.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jose/Desktop/course_master_algorimh/Tree/binary_tree/Tree.cpp
+iostream
+-
+queue.h
+/home/jose/Desktop/course_master_algorimh/Tree/binary_tree/queue.h
+stack
+-
+
+/home/jose/Desktop/course_master_algorimh/Tree/binary_tree/queue.h
+iostream
+-
+

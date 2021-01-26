@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Symmetric.dir/Symmetric.cpp.o  -o Symmetric 

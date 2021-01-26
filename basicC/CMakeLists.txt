@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.1)
+cmake_policy(SET CMP0012 NEW)
+PROJECT(projet)
+
+ADD_EXECUTABLE(reference reference.cpp)
+ADD_EXECUTABLE(struct_pointer struct_pointer.cpp)
+ADD_EXECUTABLE(passing passing.cpp)
+ADD_EXECUTABLE(passing_array passing_array.cpp)
+ADD_EXECUTABLE(passing_struct passing_struct.cpp)
+ADD_EXECUTABLE(passing_struct2 passing_struct2.cpp)
+ADD_EXECUTABLE(pass_struct_to_class pass_struct_to_class.cpp)

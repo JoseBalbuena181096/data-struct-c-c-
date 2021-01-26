@@ -1,0 +1,8 @@
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/List.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/Circular_List.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/SparceMatrix.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/Double_List.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/first.dir
+/home/jose/Desktop/course_master_algorimh/linked_list/CMakeFiles/Polinomial.dir

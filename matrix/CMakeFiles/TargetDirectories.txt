@@ -1,0 +1,8 @@
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/edit_cache.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/diagonal.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/rebuild_cache.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/triangularHigh.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/Symmetric.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/triangularLow.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/tridiagonal.dir
+/home/jetbot/course_master_algorimh/matrix/CMakeFiles/toeplitz.dir

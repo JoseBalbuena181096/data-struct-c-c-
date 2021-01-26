@@ -1,0 +1,3 @@
+/home/jose/Desktop/course_master_algorimh/stack/Post/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/stack/Post/CMakeFiles/InToPost.dir
+/home/jose/Desktop/course_master_algorimh/stack/Post/CMakeFiles/edit_cache.dir

@@ -1,0 +1,4 @@
+/home/jose/Desktop/course_master_algorimh/stack/CMakeFiles/rebuild_cache.dir
+/home/jose/Desktop/course_master_algorimh/stack/CMakeFiles/StackArray.dir
+/home/jose/Desktop/course_master_algorimh/stack/CMakeFiles/edit_cache.dir
+/home/jose/Desktop/course_master_algorimh/stack/CMakeFiles/StackList.dir

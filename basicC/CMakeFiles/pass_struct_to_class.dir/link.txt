@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pass_struct_to_class.dir/pass_struct_to_class.cpp.o  -o pass_struct_to_class 

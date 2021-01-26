@@ -1,0 +1,9 @@
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/edit_cache.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/reference.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/pass_struct_to_class.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/passing.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/rebuild_cache.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/passing_array.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/struct_pointer.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/passing_struct.dir
+/media/jose/angel/course_master_algorimh/basicC/CMakeFiles/passing_struct2.dir

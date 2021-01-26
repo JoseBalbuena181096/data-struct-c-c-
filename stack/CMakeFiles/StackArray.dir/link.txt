@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/StackArray.dir/StackArray.cpp.o  -o StackArray 

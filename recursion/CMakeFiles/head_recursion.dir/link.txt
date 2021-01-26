@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/head_recursion.dir/head_recursion.cpp.o  -o head_recursion 
